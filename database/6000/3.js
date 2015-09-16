@@ -989,7 +989,7 @@ if (true) {  idx++;  explain_set[idx] = 'Pack 2001  - 2050';	word_set1_arr[idx].
 	word_set1_arr[idx].push(' To fill'); word_set2_arr[idx].push(' 가득하다');	
 	word_set1_arr[idx].push(' Each one or  every one'); word_set2_arr[idx].push(' 각자');	
 	word_set1_arr[idx].push(' Daringly or  boldly'); word_set2_arr[idx].push(' 감히');	
-	word_set1_arr[idx].push(' Insist on6000 Most Common Korean Words – 2'); word_set2_arr[idx].push(' 강요하다');	
+	word_set1_arr[idx].push(' Insist on'); word_set2_arr[idx].push(' 강요하다');	
 	word_set1_arr[idx].push(' Ant'); word_set2_arr[idx].push(' 개미');	
 	word_set1_arr[idx].push(' Custom or  usage'); word_set2_arr[idx].push(' 관습');	
 	word_set1_arr[idx].push(' A spectacle or a sight in 3-d and uncut (compare 관광 tourism)'); word_set2_arr[idx].push(' 광경');	
