@@ -1,5 +1,5 @@
 if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 1  - 50';
+	idx++;  explain_set[idx] = 'Pack 1  - 50';
 
 	word_set1_arr[idx].push('A thing or  an object'); 
 	word_set2_arr[idx].push('것');	
@@ -102,7 +102,7 @@ if (true) {
 	word_set1_arr[idx].push('To not know'); 
 	word_set2_arr[idx].push('모르다');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 51  - 100';
+	idx++;  explain_set[idx] = 'Pack 51  - 100';
 
 	word_set1_arr[idx].push('The inside'); 
 	word_set2_arr[idx].push('속');	
@@ -205,7 +205,7 @@ if (true) {
 	word_set1_arr[idx].push('Who'); 
 	word_set2_arr[idx].push('누구');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 101  - 150';
+	idx++;  explain_set[idx] = 'Pack 101  - 150';
 
 	word_set1_arr[idx].push('Place'); 
 	word_set2_arr[idx].push('곳');	
@@ -308,7 +308,7 @@ if (true) {
 	word_set1_arr[idx].push('To write'); 
 	word_set2_arr[idx].push('쓰다');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 151  - 200';
+	idx++;  explain_set[idx] = 'Pack 151  - 200';
 
 	word_set1_arr[idx].push('This thing'); 
 	word_set2_arr[idx].push('이것');	
@@ -411,7 +411,7 @@ if (true) {
 	word_set1_arr[idx].push('To be hard, difficult'); 
 	word_set2_arr[idx].push('어렵다');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 201  - 250';
+	idx++;  explain_set[idx] = 'Pack 201  - 250';
 
 	word_set1_arr[idx].push('Power'); 
 	word_set2_arr[idx].push('힘');	
@@ -514,7 +514,7 @@ if (true) {
 	word_set1_arr[idx].push('Recently'); 
 	word_set2_arr[idx].push('최근');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 251  - 300';
+	idx++;  explain_set[idx] = 'Pack 251  - 300';
 
 	word_set1_arr[idx].push('As it is, no change'); 
 	word_set2_arr[idx].push('채');	
@@ -617,7 +617,7 @@ if (true) {
 	word_set1_arr[idx].push('The interval between'); 
 	word_set2_arr[idx].push('간');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 301  - 350';
+	idx++;  explain_set[idx] = 'Pack 301  - 350';
 
 	word_set1_arr[idx].push('investigation,inquiry'); 
 	word_set2_arr[idx].push('조사');	
@@ -720,7 +720,7 @@ if (true) {
 	word_set1_arr[idx].push('Very'); 
 	word_set2_arr[idx].push('매우');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 351  - 400';
+	idx++;  explain_set[idx] = 'Pack 351  - 400';
 
 	word_set1_arr[idx].push('Go up, climb, ascend'); 
 	word_set2_arr[idx].push('오르다');	
@@ -823,7 +823,7 @@ if (true) {
 	word_set1_arr[idx].push('A position, situation'); 
 	word_set2_arr[idx].push('입장');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 401  - 450';
+	idx++;  explain_set[idx] = 'Pack 401  - 450';
 
 	word_set1_arr[idx].push('Be of the extent of'); 
 	word_set2_arr[idx].push('만하다');	
@@ -926,7 +926,7 @@ if (true) {
 	word_set1_arr[idx].push('To assert,maintain'); 
 	word_set2_arr[idx].push('주장하다');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 451  - 500';
+	idx++;  explain_set[idx] = 'Pack 451  - 500';
 
 	word_set1_arr[idx].push('one’s children'); 
 	word_set2_arr[idx].push('자식');	
@@ -1029,7 +1029,7 @@ if (true) {
 	word_set1_arr[idx].push('Directly'); 
 	word_set2_arr[idx].push('직접');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 501  - 550';
+	idx++;  explain_set[idx] = 'Pack 501  - 550';
 
 	word_set1_arr[idx].push('Private or  individual'); 
 	word_set2_arr[idx].push('개인');	
@@ -1132,7 +1132,7 @@ if (true) {
 	word_set1_arr[idx].push('As properly is suitable'); 
 	word_set2_arr[idx].push('제대로');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 551  - 600';
+	idx++;  explain_set[idx] = 'Pack 551  - 600';
 
 	word_set1_arr[idx].push('The moon'); 
 	word_set2_arr[idx].push('달');	
@@ -1235,7 +1235,7 @@ if (true) {
 	word_set1_arr[idx].push('Always, constantly'); 
 	word_set2_arr[idx].push('자주');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 601  - 650';
+	idx++;  explain_set[idx] = 'Pack 601  - 650';
 
 	word_set1_arr[idx].push('Have, encounter'); 
 	word_set2_arr[idx].push('당하다');	
@@ -1338,7 +1338,7 @@ if (true) {
 	word_set1_arr[idx].push('An opinion,a suggestion'); 
 	word_set2_arr[idx].push('의견');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 651  - 700';
+	idx++;  explain_set[idx] = 'Pack 651  - 700';
 
 	word_set1_arr[idx].push('Stage'); 
 	word_set2_arr[idx].push('무대');	
@@ -1441,7 +1441,7 @@ if (true) {
 	word_set1_arr[idx].push('A standard or basis'); 
 	word_set2_arr[idx].push('기준');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 701  - 750';
+	idx++;  explain_set[idx] = 'Pack 701  - 750';
 
 	word_set1_arr[idx].push('End'); 
 	word_set2_arr[idx].push('말');	
@@ -1544,7 +1544,7 @@ if (true) {
 	word_set1_arr[idx].push('Half'); 
 	word_set2_arr[idx].push('반');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 751  - 800';
+	idx++;  explain_set[idx] = 'Pack 751  - 800';
 
 	word_set1_arr[idx].push('To announce'); 
 	word_set2_arr[idx].push('발표하다');	
@@ -1647,7 +1647,7 @@ if (true) {
 	word_set1_arr[idx].push('Evaluation, appraisal'); 
 	word_set2_arr[idx].push('평가');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 801  - 850';
+	idx++;  explain_set[idx] = 'Pack 801  - 850';
 
 	word_set1_arr[idx].push('Come down'); 
 	word_set2_arr[idx].push('내려오다');	
@@ -1750,7 +1750,7 @@ if (true) {
 	word_set1_arr[idx].push('Reason'); 
 	word_set2_arr[idx].push('까닭');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 851  - 900';
+	idx++;  explain_set[idx] = 'Pack 851  - 900';
 
 	word_set1_arr[idx].push('A plan, scheme'); 
 	word_set2_arr[idx].push('방안');	
@@ -1853,7 +1853,7 @@ if (true) {
 	word_set1_arr[idx].push('will,volition'); 
 	word_set2_arr[idx].push('의지');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 901  - 950';
+	idx++;  explain_set[idx] = 'Pack 901  - 950';
 
 	word_set1_arr[idx].push('A specialty'); 
 	word_set2_arr[idx].push('전문');	
@@ -1956,7 +1956,7 @@ if (true) {
 	word_set1_arr[idx].push('Preparation'); 
 	word_set2_arr[idx].push('준비');	}
  if (true) {
-	idx++;  explain_set[idx] = '6000 words - level 1 - pack 951  - 1000';
+	idx++;  explain_set[idx] = 'Pack 951  - 1000';
 
 	word_set1_arr[idx].push('To continue'); 
 	word_set2_arr[idx].push('계속되다');	
